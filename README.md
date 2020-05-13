@@ -11,7 +11,11 @@ nInput: number of neurons in input layer (Default size: 784)
 nHidden: number of neurons in hidden layer
 
 nOut: number of neurons in output layer (Default size: 10)
+
 TrainDigitX.csv.gz: training data (X-features)
+
 TrainDigitY.csv.gz: training data (Y-labels)
+
 TestDigitX.csv.gz: test data (X-features)
+
 TestDigitY.csv.gz: test data (Y-labels)
